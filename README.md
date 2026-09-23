@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1029812627947397130">
-  <img src="https://lanyard.cnrad.dev/api/1029812627947397130?idleMessage=Probably playing Warframe&borderRadius=10" /></a>
+  <img src="https://lanyard.cnrad.dev/api/1029812627947397130?idleMessage=Probably%20playing%20Warframe&borderRadius=10" /></a>
   </a>
 </p>
 
